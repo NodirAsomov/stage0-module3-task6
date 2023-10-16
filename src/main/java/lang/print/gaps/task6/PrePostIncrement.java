@@ -3,9 +3,14 @@ package lang.print.gaps.task6;
 public class PrePostIncrement {
     public static void main(String[] args) {
         int a = 5;
+        a++;
         int b = 7;
+        //b++;
         int c = 12;
+        //c++;
         int d = 15;
+        //d++;
+
 
         // use post-increment operator in the mathematical expression  
         int x =   a   + b +   c   + d;
